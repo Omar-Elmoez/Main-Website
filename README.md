@@ -5,4 +5,4 @@
 #### Preview:  
 [Demo](https://omar-elmoez.github.io/Main-Website/)  
 ##### Resources:  
-####### [Elzero Channel](https://www.youtube.com/@ElzeroAcademy/playlists)
+###### [Elzero Channel](https://www.youtube.com/@ElzeroAcademy/playlists)
