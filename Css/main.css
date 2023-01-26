@@ -169,11 +169,13 @@ header {
     display: flex;
 }
 .header__anchor {
+    display: inline-block;
     font-size: 18px;
     text-transform: capitalize;
     padding: 0 30px;
     color: black;
     height: var(--head_height);
+    line-height: var(--head_height);
     background-image: linear-gradient(var(--main_color), var(--main_color));
     background-repeat: no-repeat;
     background-size: 0% 5%;
